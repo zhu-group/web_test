@@ -22,6 +22,6 @@ navbar:
           href: Page4.3.html   
 output:
   html_document:
-    theme: cerulean
+    theme: yeti
     highlight: pygments
     
