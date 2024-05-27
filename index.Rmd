@@ -6,4 +6,4 @@ output:
 ---
 
 Welcome to my website!  
-I am a student at SUSTech, my research is about xxx.
+I am a student at SUSTech, my research is about Statistics.
