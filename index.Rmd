@@ -7,3 +7,5 @@ output:
 
 Welcome to my website!  
 I am a student at SUSTech, my research is about Statistics.
+
+<img src="figs/R.png" alt="drawing" width="500"/>
